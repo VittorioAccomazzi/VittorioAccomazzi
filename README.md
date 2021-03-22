@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VittorioAccomazzi
 - 👀 I’m interested in [imaging](https://vittorioaccomazzi.github.io/Artist/index.html), [fractals](http://julia-live.s3-website-us-east-1.amazonaws.com/) and [geneaology](https://accomazzo.org/)
-- 🌱 I’m currently learning web technbologies, they are fun and powerful !
+- 🌱 I’m currently learning web technologies, they are fun and powerful !
 - 💞️ I’m looking to collaborate on any fun project on imaging or genetics
 - 📫 You can learn more about me and contact me at my [linkedin page](https://www.linkedin.com/in/Vittorio-Accomazzi/)
 
