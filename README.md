@@ -1,4 +1,4 @@
-I’m @VittorioAccomazzi, I'm currently the CTO at [International Medical Soltions](https://imstsvc.com/).
+I’m @VittorioAccomazzi, I'm currently the CTO at [International Medical Solutions](https://imstsvc.com/).
 
 I'm interested in techology and how it can improve or lifes. 
 
