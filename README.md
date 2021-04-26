@@ -1,10 +1,4 @@
-I’m @VittorioAccomazzi, I'm currently the CTO at [International Medical Solutions](https://imstsvc.com/).
-
-I'm interested in technology and how it can improve or lifes. 
-
-My hobbies are [imaging](https://vittorioaccomazzi.github.io/Artist/index.html), [fractals](http://julia-live.s3-website-us-east-1.amazonaws.com/) and [geneaology](https://accomazzo.org/) and [genomics](https://vittorioaccomazzi.github.io/snpsandme/)
-
-You can learn more about me and contact me at my [linkedin page](https://www.linkedin.com/in/Vittorio-Accomazzi/)
+Welcome to my GitHub page. Currently the CTO at [International Medical Solutions](https://imstsvc.com/)), I have an interest in technology and how it can improve our health and lives. My hobbies include [imaging](https://vittorioaccomazzi.github.io/Artist/index.html), [fractals](http://julia-live.s3-website-us-east-1.amazonaws.com/), [genealogy](https://accomazzo.org/) and [genomics](https://vittorioaccomazzi.github.io/snpsandme/). You can learn more and contact me on my [LinkedIn page](https://www.linkedin.com/in/Vittorio-Accomazzi/).
 
 <!---
 VittorioAccomazzi/VittorioAccomazzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
